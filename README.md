@@ -6,9 +6,13 @@ notions of concurrency control and recovery in database systems.
 Project:
 
 Create a fully functional website with an integrated database for a hotel chain.
+
 Create a tool for the hotel chain to use to add/remove/update hotel information (rooms, services, etc.)
 
 -customer signup
+
 -customer reservations (room, services, include food)
+
 -customer review system
+
 -backend tool for employees to add/remove/update hotel offers and prices
